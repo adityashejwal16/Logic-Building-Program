@@ -1,7 +1,7 @@
 # Logic-Building-Program
 
 <br>
-Author- Aditya Shejwal
+## 👨🏻‍💻 Author = Aditya Shejwal
 
 <br>
 This repository contains logic building programs designed to improve problem-solving skills and programming thinking.  
