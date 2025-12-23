@@ -1,11 +1,11 @@
 # Logic-Building-Program
-
-<br>
-## 👨🏻‍💻 Author = Aditya Shejwal
-
 <br>
 This repository contains logic building programs designed to improve problem-solving skills and programming thinking.  
 These programs focus on developing strong logic using simple and step-by-step approaches.
+<br>
+
+## 👤 Author :-
+*Aditya Shejwal*
 
 ## 📌 Topics Covered
 - Basic Logic Programs
@@ -22,4 +22,3 @@ These programs focus on developing strong logic using simple and step-by-step ap
 - C
 - C++
 - Java
-
