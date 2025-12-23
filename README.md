@@ -5,7 +5,7 @@ These programs focus on developing strong logic using simple and step-by-step ap
 <br>
 
 ## 👤 Author :-
->> *Aditya Shejwal*
+- *Aditya Shejwal*
 
 ## 📌 Topics Covered
 - Basic Logic Programs
